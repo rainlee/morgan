@@ -1,4 +1,4 @@
 morgan
 ======
 
-Morgan Stanley Student Programming Contest CodeStorm Spring 2014
+`Morgan Stanley` Student Programming Contest [CodeStorm](https://www.morganstanley.com/progcontest/ "Morgan CodeStorm") Spring 2014
